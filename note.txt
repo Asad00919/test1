@@ -1,0 +1,2 @@
+fit rm --cached >> faylni adashib qoyvorgan bolsa olib tashash.
+git add . >> hammasini qoshish
